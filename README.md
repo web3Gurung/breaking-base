@@ -81,3 +81,11 @@ Daily highlights of Onchain Summer!
 🔗 https://warpcast.com/0xfragrance/0x284fe8da
 
 ------
+
+### Day 17
+🔗 https://warpcast.com/atomic/0x324e5159
+
+------
+
+### Day 18
+🔗 https://warpcast.com/0xfragrance/0xb191626f
