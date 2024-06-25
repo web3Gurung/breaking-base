@@ -89,3 +89,8 @@ Daily highlights of Onchain Summer!
 
 ### Day 18
 🔗 https://warpcast.com/0xfragrance/0xb191626f
+
+------
+
+### Day 19
+🔗 https://warpcast.com/aditak/0xd2c79d24
