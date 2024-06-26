@@ -99,3 +99,8 @@ Daily highlights of Onchain Summer!
 
 ### Day 20
 🔗 https://warpcast.com/0xfragrance/0x5b8376e4
+
+------
+
+### Day 21
+🔗 https://warpcast.com/web3gurung/0x612666fd
