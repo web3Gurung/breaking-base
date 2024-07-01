@@ -126,5 +126,30 @@ Daily highlights of Onchain Summer!
 ------
 
 ### Day 25
-🔗 [https://warpcast.com/web3gurung/0x6355eacf](https://warpcast.com/web3gurung/0x6355eacf)
+🔗 [https://warpcast.com/atomic/0x1544cfe5](https://warpcast.com/atomic/0x1544cfe5)
+
+------
+
+### Day 26
+🔗 [https://warpcast.com/web3gurung/0x8e0949ee](https://warpcast.com/web3gurung/0x8e0949ee)
+
+------
+
+### Day 27
+🔗 [https://warpcast.com/314yush/0xe23f813f](https://warpcast.com/314yush/0xe23f813f)
+
+------
+
+### Day 28
+🔗 [https://warpcast.com/aditak/0x8d060268](https://warpcast.com/aditak/0x8d060268)
+
+------
+
+### Day 29
+🔗 [https://warpcast.com/web3gurung/0x38c2a526](https://warpcast.com/web3gurung/0x38c2a526)
+
+------
+
+### Day 30
+🔗 [https://warpcast.com/0xfragrance/0xfd3f3863](https://warpcast.com/0xfragrance/0xfd3f3863)
 
